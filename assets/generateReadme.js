@@ -9,7 +9,7 @@ function generateMarkdown(data,badge) {
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
-* [Demo Video](#tests)
+* [Demo Video](#Project-Demo-Video)
 * [Questions?](#questions)
 
 ## Project Description
@@ -34,13 +34,13 @@ ${badge}
 
 ${data.contribute}
 
-## Tests
+## Project Demo Video
 
 ${data.test}
 
 ## Questions
 
-Please contact me for any questions related to the application through the information below:
+please feel free to ask me any questions.
 
 Github username: ${data.username}
 
